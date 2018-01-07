@@ -2,6 +2,7 @@
 (2 Player)Enjoy Playing ThePigGame based on HTML CSS and JAVASCRIPT
 
 <-------------------------------------------------------RULES------------------------------------------------------------------->
+
  1.Pig is a simple dice game which in its basic form is playable with just a single die. You win by being the first player to score            100 or more points(Winning score can be altered while playing).
  
 2.To play you'll need 2 players. 
